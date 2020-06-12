@@ -1,0 +1,121 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+     background: url(header.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+.header{
+    font-style: bold;
+    color: azure;
+    margin-top: 150px;
+    margin-left: 180px;
+    text-align: center;
+    position: absolute;
+}
+
+.buffer {
+  height: 7.5rem;
+}
+
+hr {
+  border-color: chocolate;
+  border-width: 3px;
+  max-width: 65px;
+}
+
+.btn{
+    
+    /*margin-top: 530px;
+    margin-left: 640px;*/
+    font-weight: 700;
+  border-radius: 300px;
+  text-transform: uppercase;
+}
+
+
+.btn-primary{
+    
+    background-color: chocolate;
+    border: 2px solid chocolate;
+    transition-duration: 1s;
+    transition-property: transform;
+    
+}
+
+.btn-primary:hover{
+    transform: scale(1.1);
+    font-size: 1.09em;
+    background-color: chocolate;
+    border-color: chocolate;
+
+    }
+
+/*.container{
+        font-style: bold;
+    color: azure;
+    
+}*/
+
+
+
+
+/*Code of Andrei*/
+
+
+/*body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+  background: url(header.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}*/
+
+
+h1 {
+  font-size: 3rem;
+  color: #e2dbdb;
+}
+
+/*hr {
+  border-color: #F05F44;
+  border-width: 3px;
+  max-width: 65px;
+}*/
+
+/*
+.buffer {
+  height: 7.5rem;
+}
+*/
+
+/*.btn {
+  font-weight: 700;
+  border-radius: 300px;
+  text-transform: uppercase;
+}*/
+
+/*.btn-primary {
+  background-color: #F05F44;
+  border-color: #F05F44;
+}*/
+
+/*.btn-primary:hover {
+  background-color: #ee4b08;
+  border-color: #ee4b08;
+  border-width: 4px;
+}*/
+
+/*.btn-xl {
+  padding: 1rem 2rem;
+}*/
