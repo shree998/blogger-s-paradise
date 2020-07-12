@@ -1,2 +1,2 @@
 # blogger-s-paradise
-My first blogging site.
+A template for landing page.
