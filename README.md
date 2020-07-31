@@ -1,2 +1,2 @@
 # blogger-s-paradise
-A template for landing page.
+A template that uses flexbox created for landing page.
